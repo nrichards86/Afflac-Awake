@@ -3,9 +3,9 @@ html, body {
 }
 
 body {
-	margin: 0px;
-	padding: 0px;
-	background: #A80154;
+	margin: 16px;
+	padding: 20px;
+	background: #FFFFFF;
 	font-family: 'Chivo', sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
