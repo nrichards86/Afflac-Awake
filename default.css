@@ -5,11 +5,11 @@ html, body {
 body {
 	margin: 16px;
 	padding: 20px;
-	background: #FFFFFF;
+	background: rgb(255,255,255)
 	font-family: 'Chivo', sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
-	color: #363636;
+	color: rgb(0,0,0)
 }
 
 
@@ -151,7 +151,7 @@ hr {
 	
 	ul.contact li a
 	{
-		color: #FFF;
+		color: #FFFFFF;
 	}
 	
 	ul.contact li a:before
@@ -170,9 +170,6 @@ hr {
 	ul.contact li a.icon-facebook:before { background: #39599F; }
 	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
 	ul.contact li a.icon-tumblr:before { background: #31516A; }
-	ul.contact li a.icon-rss:before { background: #F2600B; }
-
-
 /*********************************************************************************/
 /* Heading Titles                                                                */
 /*********************************************************************************/
@@ -531,30 +528,30 @@ hr {
 
 	#footer
 	{
-		color: #ADADAD;
+		color: #FF0000;
 	}
 	
 	#footer .title h2
 	{
 		font-weight: 400;
 		font-size: 1.2em;
-		color: #FFF;
+		color: #FFFFFF;
 	}
 
 	#footer .title
 	{
-		border-color: #2D2926 !important;
+		border-color: #FF0000 !important;
 	}
 	
 	#footer .style1 li
 	{
-		border-color: #2D2926 !important;
+		border-color: #FF0000 !important;
 	}
 	
 	#footer .style1 a
 	{
 		font-size:1em;
-		color: #B1B1B1;
+		color: #FF0000;
 	}
 	
 	#box1
